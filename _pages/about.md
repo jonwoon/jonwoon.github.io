@@ -7,10 +7,10 @@ subtitle: Professor of Political Science | Associate Dean for Graduate Studies
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>University of Pittsburgh</p>
-    <p>Pittsburgh, PA</p>
+    # <p>University of Pittsburgh</p>
+    # <p>Pittsburgh, PA</p>
 
 
 news: true  # includes a list of news items

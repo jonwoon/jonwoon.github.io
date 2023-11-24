@@ -53,6 +53,10 @@
       #   - Description 1.
       #   - Description 2.
 
+    - title: Professor of Economics (secondary)
+      institution: University of Pittsburgh
+      year: 2018 - present
+
     - title: Professor of Political Science
       institution: University of Pittsburgh
       year: 2018 - present
@@ -61,13 +65,17 @@
       institution: University of Pittsburgh
       year: 2017
 
-    - title: Director of Undergraduate Studies
+    - title: Director of Undergraduate Studies, Political Science
       institution: University of Pittsburgh
       year: 2015 - 2018
 
     - title: Associate Editor
       institution: Journal of Experimental Political Science
       year: 2014 - 2019
+
+    - title: Associate Professor of Economics (secondary)
+      institution: University of Pittsburgh
+      year: 2014 - 2018
 
     - title: Associate Professor of Political Science 
       institution: University of Pittsburgh

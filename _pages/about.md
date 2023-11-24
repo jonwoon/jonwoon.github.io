@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor of Political Science | Associate Dean for Graduate Studies
+subtitle: professor | associate dean
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>University of Pittsburgh</p>
   #   <p>Pittsburgh, PA</p>

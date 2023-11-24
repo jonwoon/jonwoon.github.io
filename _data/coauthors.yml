@@ -1,3 +1,65 @@
+"Anderson":
+  - firstname: ["Sarah E", "Sarah"]
+    url: https://www.seanderson.org/
+  
+"Burdea":
+  - firstname: ["Valeria"]
+    url: https://valeriaburdea.weebly.com/
+
+"Chaudoin":
+  - firstname: ["Stephen"]
+    url: https://www.stephenchaudoin.com/
+
+"Cook":
+  - firstname: ["Ian", "Ian Palmer", "Ian P."]
+
+"Craig":
+  - firstname: ["Sean", "Sean A."]
+
+"Dancey":
+  - firstname: ["Logan"]
+    url: https://ldancey.faculty.wesleyan.edu/
+
+"Hamman":
+  - firstname: ["John R.", "John"]
+    url: https://myweb.fsu.edu/jhamman/
+
+"Jang":
+  - firstname: ["Minsu"]
+
+"Kanthak":
+  - firstname: ["Kristin"]
+    url: https://www.polisci.pitt.edu/people/kristin-kanthak
+
+"Leifson":
+  - firstname: ["Amanda"]
+
+"Minozzi":
+  - firstname: ["William"]
+    url: https://minozzi.github.io/aboutme/
+
+"Pope":
+  - firstname: ["Jeremy C.", "Jeremy"]
+    url: https://politicalscience.byu.edu/jeremypope
+
+"Pronin":
+  - firstname: ["Kira"]
+    url: https://scandipolitics.com/
+
+"Schiller":
+  - firstname: ["Jacob"]
+
+"Tarpey":
+  - firstname: ["Matthew"]
+    url: https://www.pittstate.edu/hpss/faculty-and-staff/matthew-tarpey.html
+
+"Weber":
+  - firstname: ["Roberto A.", "Roberto"]
+    url: https://www.robertoweber.com/
+
+
+
+
 # "Adams":
 #   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
 #     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

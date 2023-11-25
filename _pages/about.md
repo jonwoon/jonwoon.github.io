@@ -6,7 +6,7 @@ subtitle: democratic decision making | experiments | behavioral models
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: woon_bw.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>University of Pittsburgh</p>

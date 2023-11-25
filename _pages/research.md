@@ -4,7 +4,7 @@ permalink: /research/
 title: research
 description: work in progress
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 - “Numeric versus Natural Language Messages in Cheap Talk Communication Games” (joint with William Minozzi)

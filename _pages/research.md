@@ -4,21 +4,28 @@ permalink: /research/
 title: research
 description: work in progress
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
-- “Numeric versus Natural Language Messages in Cheap Talk Communication Games” (joint with William Minozzi)
 
-- "Fact Polarization: Bias in Source Credibility Beliefs is Greater if Feelings Toward Out-Partisans are Colder" (joint with Valeria Burdea and William Minozzi)
 
-- "Comparing Belief Elicitation Methods: Online Samples, Numeracy, and Incentives" (joint with Daniel Banko-Ferran and Valeria Burdea)
+- Woon, Jonathan. “The Social Production of Ignorance: Historical Knowledge, Identity, and Perceptions of Racism in U.S. National Survey Samples” (under review)
 
-- "Historical Knowledge and Perceptions of Racism: Replication and Robustness” (join with Nicole Loncaric)
+- Park, Yul Min and Jonathan Woon. “Does Linking Past to Present Change Beliefs about Health Disparities and Structural Racism?” (under review, American Political Science Review)
 
-- “Getting it Right: Communication, Voting, and Collective Truth Finding” (joint with Valeria Burdea)
+- Woon, Jonathan. “Awareness and Fairness: The Epistemology of Justice, History, and Institutional Choice”
 
-- "Asymmetric Partisan Perceptions" (joint with Matthew Tarpey)
+- Park, Yul Min and Jonathan Woon. “Party Norms Prevail: Instrumental Voting and Resistance to Crossover Voting” (under review)
 
-- "Political Lie Detection: Truth Tracking and Partisan Gaps"
+- Burdea, Valeria, William Minozzi, and Jonathan Woon. “Partisan Bias in Second Order Beliefs” 
+- 
+- Banko, Daniel, Valeria Burdea, and Jonathan Woon. “Comparing Belief Elicitation Methods with Online Participants (under review)
 
-- "An Empirical Analysis of Ranked Choice Voting"
+- Woon, Jonathan. “Political Lie Detection: Truth Tracking and Partisanship” 
+- 
+- Woon, Jonathan and Matthew Tarpey. “Asymmetric Partisan Perceptions”
+
+
+
+
+

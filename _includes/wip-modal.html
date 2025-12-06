@@ -1,0 +1,55 @@
+<!-- _includes/wip-modal.html -->
+{%- assign wip_id = wip.path | replace: '_wip/', '' | replace: '.md', '' | replace: '-', '' -%}
+<div class="modal fade" id="wip-modal-{{ wip_id }}" tabindex="-1" role="dialog" aria-labelledby="wip-modal-label-{{ wip_id }}" aria-hidden="true">
+  <div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="wip-modal-label-{{ wip_id }}">
+          {{ wip.title }}
+          {%- if wip.subtitle %} - {{ wip.subtitle }}{%- endif -%}
+        </h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        {%- if wip.coauthors %}
+        {%- assign coauthor_list = wip.coauthors | split: ", " -%}
+        {%- assign coauthor_count = coauthor_list.size -%}
+        <p style="font-size: 0.95rem; color: #666; font-style: italic; margin-bottom: 1rem;">
+          {%- if coauthor_count == 1 -%}
+            Coauthor: {{ wip.coauthors }}
+          {%- else -%}
+            Coauthors: {{ wip.coauthors }}
+          {%- endif -%}
+        </p>
+        {%- endif %}
+        {%- if wip.description %}
+        <p><strong>Description:</strong></p>
+        <p>{{ wip.description }}</p>
+        {%- endif %}
+        {%- if wip.abstract %}
+        <p><strong>Abstract:</strong></p>
+        <p>{{ wip.abstract }}</p>
+        {%- endif %}
+        {%- if wip.pdf %}
+        <p><strong>PDF:</strong></p>
+        <p><a href="{{ wip.pdf | relative_url }}" target="_blank" class="btn btn-primary btn-sm">Download PDF</a></p>
+        {%- endif %}
+        {%- if wip.draft %}
+        <p><strong>Draft:</strong></p>
+        <div>{{ wip.draft | markdownify }}</div>
+        {%- endif %}
+        {%- if wip.status %}
+        <p style="margin-top: 1rem; font-size: 0.9rem; color: #888;">
+          <em>{{ wip.status }}</em>
+        </p>
+        {%- endif %}
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+

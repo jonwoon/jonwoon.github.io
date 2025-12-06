@@ -1,0 +1,81 @@
+WIP TITLES, DESCRIPTIONS, AND ABSTRACTS
+========================================
+
+RACE AND HISTORY
+----------------
+
+1. The Social Production of Ignorance
+   (short_title: Ignorance of History)
+   Description: Why do people perceive racism differently -- historical awareness, racial identity, or both?
+   
+   Abstract: Public understanding of racism in the United States remains deeply divided, epecially over the role of systemic forces in shaping racial inequality. This study tests two complementary psychological mechanisms that may contribute to these divisions. Drawing on the epistemology of ignorance framework, I examine the Marley Hypothesis—which links awareness of racial history to recognition of racism—and the Identity Relevance Hypothesis, which posits that racial identity shapes how race-related information is processed. 
+
+   Across two preregistered studies with sizeable nationally diverse adult samples (Study 1: N = 981, Lucid; Study 2: N = 749, Prolific), I find consistent evidence that racial identity strength moderates perceptions of racism among both Black and white Americans. Support for the Marley Hypothesis is mixed, although historical knowledge is independently associated with increased recognition of racism across both studies. These findings underscore the dual role of information and identity in shaping racial attitudes.
+
+
+2. Does Linking Past to Present Change Beliefs about Health Disparities and Structural Racism?
+   (short_title: Linking Past to Present)
+   Description: An experiment on how narrative links reshape beliefs about structural racism in healthcare.
+   
+   Abstract: Racial health disparities persist as a major public health challenge in the United States, yet public awareness of these inequalities and their structural causes remains limited.
+   Addressing this gap requires innovative approaches to shape perceptions and enhance understanding of systemic inequities. While interventions providing numerical corrections or historical context can reshape awareness, they often fail to explicitly connect historical injustices to contemporary disparities. This paper presents a preregistered between-subjects experiment that tests whether interventions establishing this connection are more effective than historical framing alone. We hypothesize that a Narrative Link Treatment linking past injustices to present-day inequalities will primarily increase awareness of disparities and increase structural attributions. We further expect, as secondary hypotheses, that the treatment will reduce individual attributions, reduce biological essentialism, and strengthen policy support. Findings will inform strategies to advance public awareness and mobilize support for policies addressing structural racism in healthcare.
+
+
+3. Awareness and Fairness
+   Description: An experimental look at justice when inequality has a past.
+   
+   Abstract: This project examines how people reason about justice when inequality has a history. Standard fairness experiments treat inequality as the product of effort or luck, assuming a level playing field. But real societies are shaped by inherited advantage. I develop an experimental framework that models historical expropriation and its persistence over time, then vary what participants know about those origins. In the study, participants complete linked production tasks in which early decisions create unearned privilege. Before choosing between a merit-based contest and an egalitarian rule for allocating future rewards, they receive different forms of historical and privilege awareness.
+
+   Pilot results show that awareness does not simply shift choices—it reshapes moral reasoning: participants move from merit-based justifications toward arguments about opportunity, fairness, and repairing inherited disadvantage. The broader contribution is an epistemic approach to justice: institutional preferences depend not only on incentives or outcomes, but on what people can see about the causal history behind inequality.
+
+
+MORAL REASONING AND POLITICAL COGNITION
+---------------------------------------
+
+4. Memes Matter
+   Description: how political memes normalize transgressive political behavior
+   
+   Abstract: [Not yet provided]
+
+
+5. Religious Compassion and Political Attitudes
+   (short_title: Religious Reflection)
+   Description: Does reflecting on compassion reduce support for exclusionary politics?
+   
+   Abstract: Religious teachings often emphasize compassion and care for the marginalized, yet many religious individuals support exclusionary political policies. This study investigates whether reflecting on theological messages of compassion can reduce support for such policies. In a preregistered experiment, participants were randomly assigned to reflect on either the teachings of Jesus emphasizing mercy (Jesus on Compassion Condition) or secular civic values (Societal Values Condition), followed by evaluations of exclusionary policies in immigration and humanitarian domains. Results test whether religious reflection reduces support for hardline policies, diminishes moral and pragmatic justifications, and lowers approval of Donald Trump. The study also examines whether effects are stronger among more religious participants. By shifting focus from identity activation to moral engagement, this research contributes to debates on religion's role in shaping political attitudes and the conditions under which theological values can influence public opinion.
+
+
+PARTISANSHIP, BELIEFS, AND VOTING
+----------------------------------
+
+6. Party Norms Prevail
+   Description: The hidden norms that limit strategic voting.
+   
+   Abstract: Opportunities for crossover voting--when partisans participate in the opposing party's primary to influence its nominee--pose a puzzle for theories of strategic behavior. We present evidence from two preregistered studies showing that instrumental logic explains much, but not all, of voter behavior. Consistent with instrumental voting theory, support for crossover voting rises with negative evaluations of one candidate relative to another and beliefs about electability. Yet experimental primes designed to heighten concern about authoritarian threats had no measurable effect, suggesting limits to interventions when preferences are already entrenched. More importantly, we introduce a novel account of party voting norms--internalized beliefs that crossing party lines is inappropriate. These norms significantly suppress willingness to cross over, even among voters with strong instrumental incentives, and are salient in open-ended explanations. Findings show that strategic behavior is shaped by not only instrumental incentives but normative commitments about how democratic elections should work.
+
+
+7. Political Lie Detection
+   Description: Investigating how partisanship affects the ability to detect political lies and track truth
+   
+   Abstract: Can citizens detect political deception? In a survey experiment, I elicit truth judgments from U.S. respondents about real political statements drawn from a professional fact-checking organization. Participants assess the veracity of each statement under randomized attribution conditions—some with partisan source cues, others without. I find that aggregate perceptions reliably track the truth: more accurate statements are rated as more truthful, even in the presence of partisan bias. While attribution increases polarization, it does not eliminate responsiveness to factual content. These findings suggest that political lie detection is possible through the aggregation of individual judgments, and that truth continues to matter even in a polarized political environment.
+
+
+8. Partisan Bias in Second Order Beliefs
+   (short_title: Partisan Bias in Beliefs)
+   Description: Examining how partisanship affects second-order beliefs about others' knowledge and perceptions
+   
+   Abstract: Political polarization over basic facts poses a serious challenge to the functioning of democracies. Yet distinguishing between competing explanations for fact polarization through evidence of learning (first-order beliefs) is hindered by observational equivalence. To address this limitation, we examine source credibility (second-order) beliefs - perceptions of the accuracy of others' factual knowledge. Our findings reveal strong evidence that in-group partisan bias is a key mechanism linking first-order rational learning to fact polarization. In-group partisans are consistently perceived as having more accurate knowledge than out-group partisans. This partisan gap is primarily driven by political affect - feelings toward members of each party - rather than party-specific knowledge, implying a hybrid model of first-order rational learning with second-order motivated reasoning. These results have direct implications for  media, institutions, and policymakers seeking to mitigate bias and reduce polarization.
+
+
+9. Blind Partisan Perception
+   (short_title: Asymmetric Perceptions)
+   Description: Exploring how partisans perceive political information and events differently across party lines
+   
+   Abstract: This paper investigates the effect of mass partisanship on perceptions of the two parties' positions and the factors responsible for this effect. Namely, we study the extent to which levels of information and partisan affect can account for the influence of partisanship on perceptions of the parties' positions. Using ANES data for the period 1980-2020, we find that partisanship has statistically and substantively significant impacts on voters' perceptions of the two parties' general ideological and specific issue positions. The functional form of the relationship in our analysis is usually non-linear, with partisan strength typically having a larger influence on voters' perceptions of the out-party's positions. Finally, we find that most of the effect of partisan strength on voters' views of the other party can be accounted for by levels of information and partisan affect. Our analysis reveals that the effect of partisanship on perceptions is greatest among "blind partisan" voters who possess limited knowledge about politics but a strong affective attachment to their preferred party.
+
+
+10. Comparing Belief Elicitation Methods with Online Participants
+    (short_title: Belief Elicitation)
+    Description: Evaluating different belief elicitation methods and their effectiveness with online survey participants
+    
+    Abstract: This study evaluates the effectiveness of three widely used belief elicitation methods in an online setting: the binarized scoring rule (BSR), the stochastic Becker-DeGroot-Marschak mechanism (BDM), and unincentivized introspection. Despite the theoretical advantages of incentive-compatible methods (BSR and BDM), we find that they impose significantly higher cognitive costs on participants, requiring more time and effort to implement, without delivering clear improvements in belief accuracy. In fact, BSR systematically leads to greater errors in reported beliefs compared to introspection, while BDM also reduces accuracy, though to a lesser extent. Surprisingly, individual differences in probabilistic reasoning skills do not mitigate these errors for BSR but do help improve accuracy under BDM. Our findings suggest that simpler, unincentivized approaches may offer comparable or even superior accuracy at a lower cognitive cost. These results have broad implications for the design of experiments and the interpretation of belief data in behavioral and experimental economics.

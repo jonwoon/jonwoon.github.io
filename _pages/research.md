@@ -8,6 +8,39 @@ nav_order: 2
 ---
 
 <style>
+/* Ensure Bootstrap grid works even if CSS isn't loading properly */
+.research-tiles {
+  display: block;
+}
+
+.research-tiles .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.research-tiles [class*="col-"] {
+  position: relative;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+@media (min-width: 768px) {
+  .research-tiles .col-md-6 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .research-tiles .col-lg-4 {
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+}
+
 /* Consistent tile heights and alignment */
 .research-tiles .card {
   height: 100%;

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Political Lie Detection
-subtitle: Truth Tracking and Partisanship
+title: Veracity Judgments and the Limits of Partisan Bias
 description: How partisanship shapes our ability to spot political truth—and political lies
+short_title: lie detection
 category: Partisanship, Beliefs, and Voting
 importance: 7
 # pdf: assets/papers/political-lie-detection.pdf  # optional

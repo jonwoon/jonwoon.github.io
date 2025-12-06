@@ -8,40 +8,50 @@ nav_order: 2
 ---
 
 <style>
-/* Ensure Bootstrap grid works even if CSS isn't loading properly */
-.research-tiles {
-  display: block;
+/* Use CSS Grid for more reliable layout - need high specificity to override Bootstrap */
+.post .research-tiles.row,
+.research-tiles.row {
+  display: grid !important;
+  flex-wrap: unset !important;
+  grid-template-columns: 1fr !important;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
 }
 
-.research-tiles .row {
-  display: flex;
-  flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
-}
-
-.research-tiles [class*="col-"] {
-  position: relative;
-  flex: 0 0 100%; /* Mobile first: 100% width by default */
-  max-width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-}
-
+/* Tablet: 2 columns at 768px+ */
 @media (min-width: 768px) {
-  .research-tiles .col-md-6 {
-    flex: 0 0 50% !important;
-    max-width: 50% !important;
-    width: 50% !important;
+  .post .research-tiles.row,
+  .research-tiles.row {
+    grid-template-columns: repeat(2, 1fr) !important;
   }
 }
 
+/* Desktop: 3 columns at 992px+ */
 @media (min-width: 992px) {
-  .research-tiles .col-lg-4 {
-    flex: 0 0 33.333333% !important;
-    max-width: 33.333333% !important;
-    width: 33.333333% !important;
+  .post .research-tiles.row,
+  .research-tiles.row {
+    grid-template-columns: repeat(3, 1fr) !important;
   }
+}
+
+/* Add margin to columns for spacing since grid gap isn't working */
+.research-tiles .col-md-6,
+.research-tiles .col-lg-4,
+.research-tiles .mb-4 {
+  position: relative !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+  margin-bottom: 2rem !important;
+  margin-top: 0 !important;
+  box-sizing: border-box;
+}
+
+/* Remove margin from last row items */
+.research-tiles .row:last-child .col-md-6:last-child,
+.research-tiles .row:last-child .col-lg-4:last-child {
+  margin-bottom: 0 !important;
 }
 
 /* Consistent tile heights and alignment */

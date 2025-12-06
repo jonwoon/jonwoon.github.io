@@ -22,22 +22,25 @@ nav_order: 2
 
 .research-tiles [class*="col-"] {
   position: relative;
-  width: 100%;
+  flex: 0 0 100%; /* Mobile first: 100% width by default */
+  max-width: 100%;
   padding-right: 15px;
   padding-left: 15px;
 }
 
 @media (min-width: 768px) {
   .research-tiles .col-md-6 {
-    flex: 0 0 50%;
-    max-width: 50%;
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+    width: 50% !important;
   }
 }
 
 @media (min-width: 992px) {
   .research-tiles .col-lg-4 {
-    flex: 0 0 33.333333%;
-    max-width: 33.333333%;
+    flex: 0 0 33.333333% !important;
+    max-width: 33.333333% !important;
+    width: 33.333333% !important;
   }
 }
 

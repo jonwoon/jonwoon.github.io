@@ -54,6 +54,11 @@ nav_order: 2
   flex-grow: 1;
 }
 
+/* Fallback for Bootstrap text-lowercase utility */
+.research-tiles .text-lowercase {
+  text-transform: lowercase !important;
+}
+
 /* Title: exactly 2 lines with line-clamp */
 .research-tiles .card-title {
   min-height: 3rem; /* 2 lines × 1.5rem line-height */
@@ -65,6 +70,7 @@ nav_order: 2
   text-overflow: ellipsis;
   line-height: 1.5rem;
   margin-bottom: 0.75rem;
+  text-transform: lowercase; /* Fallback if Bootstrap class doesn't work */
 }
 
 /* Description: natural height, no growth */
